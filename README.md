@@ -59,14 +59,3 @@ LinkedIn: 👉 https://www.linkedin.com/in/albertvallsbe/
 **Yisti** – Private product under active development  
 (short technical description)
 
----
-
-<details>
-<summary>🇪🇸 Español</summary>
-Versión resumida
-</details>
-
-<details>
-<summary>🇨🇦 Català</summary>
-Versió resumida
-</details>
